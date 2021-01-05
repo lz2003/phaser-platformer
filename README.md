@@ -4,9 +4,9 @@ A simple platformer game made for the ICS4U self-learning adventure project.
 
 # How to play
 
-Heroku: https://infinite-shore-13166.herokuapp.com/
+Live version: https://infinite-shore-13166.herokuapp.com/
 
-You can also just download the repo and host it locally with npm or Node.js
+You can also just download the repo and host it locally with npm or Node.js. Run `npm install` to download the required dependencies. Use `npm start` to build the project and run a web server at `http://localhost:8080`.
 
 # Credits for assets
 
